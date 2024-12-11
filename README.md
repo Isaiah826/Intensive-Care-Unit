@@ -32,3 +32,6 @@ The mortality distribution by insurance type shows survival rates of 84% for "Go
 
 ![iuc4_Image](icu7.jpg)
 The tree map in Figure 4.7 shows the distribution of common diagnoses among surviving patients. The most frequent diagnosis is "Newborn" (21.23%), followed by "Coronary Artery Disease" (4.18%). Other notable diagnoses include "Pneumonia" (1.66%), "Sepsis" (1.21%), and "Chest Pain" (1.41%). "Newborn" is the most common diagnosis associated with survival.
+
+![iuc5_Image](icu8.jpg)
+The tree map in Figure 4.8 highlights the distribution of common diagnoses leading to patient death. "Pneumonia" accounts for the highest proportion (21.32%), followed by "Sepsis" (4.18%). Other notable diagnoses include "Congestive Heart Failure" (1.66%), "Intracanal Haemorrhage" (1.21%), and "Gastrointestinal Bleeding" (1.41%). "Pneumonia" is the leading diagnosis associated with patient deaths.

@@ -27,8 +27,8 @@ The mortality distribution by gender shows that 39% of female patients did not s
 ![iuc3_Image](icu5.jpg)
 The mortality distribution by admission type shows survival rates of 72% for "Elective," 53% for "Emergency," 99% for "Newborn," and 49% for "Urgent" patients. Patients in the "Urgent" category have the lowest survival likelihood, while the "Newborn" category has the highest survival rate.
 
-![iuc4_Image](icu7.jpg)
-The tree map in Figure 4.7 shows the distribution of common diagnoses among surviving patients. The most frequent diagnosis is "Newborn" (21.23%), followed by "Coronary Artery Disease" (4.18%). Other notable diagnoses include "Pneumonia" (1.66%), "Sepsis" (1.21%), and "Chest Pain" (1.41%). "Newborn" is the most common diagnosis associated with survival.
-
 ![iuc4_Image](icu6.jpg)
 The mortality distribution by insurance type shows survival rates of 84% for "Government," 74% for "Medicaid," 43% for "Medicare," 80% for "Private," and 79% for "Self-Pay." Patients in the "Medicare" category have the lowest survival rate, while other insurance types show higher survival rates.
+
+![iuc4_Image](icu7.jpg)
+The tree map in Figure 4.7 shows the distribution of common diagnoses among surviving patients. The most frequent diagnosis is "Newborn" (21.23%), followed by "Coronary Artery Disease" (4.18%). Other notable diagnoses include "Pneumonia" (1.66%), "Sepsis" (1.21%), and "Chest Pain" (1.41%). "Newborn" is the most common diagnosis associated with survival.

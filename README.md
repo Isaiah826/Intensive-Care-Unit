@@ -39,3 +39,18 @@ The tree map in Figure 4.8 highlights the distribution of common diagnoses leadi
 ![iuc6_Image](icu9.jpg)
 
 The bar chart in Figures 4.9 and 4.10 shows mortality distribution by first and last care units, including TSICU, MICU, CCU, SICU, CSRU, and NICU. MICU has the highest number of both patient survivals and deaths among all care units.
+
+### Machine Learning Model
+ **F1 Scores**:  
+  - Models achieve F1 scores between **53% and 71%**, indicating effective prediction of ICU patient survival or mortality.  
+  - Two models with F1 scores of **70% and 71%** highlight the robustness of the data preprocessing.
+
+- **Precision**:  
+  - Precision measures the accuracy of positive predictions, crucial for imbalanced datasets.  
+  - **Random Forest**: 74%, **CatBoost**: 72%.  
+
+- **Recall**:  
+  - Recall assesses the model's ability to detect all true positives.  
+  - **Random Forest**: 69%, **CatBoost**: 68%.  
+
+These results underscore the effectiveness of the Random Forest and CatBoost models in predicting ICU outcomes with strong precision and recall performance.

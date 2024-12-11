@@ -23,3 +23,6 @@ The ICU mortality distribution is imbalanced, with 60.69% of patients surviving 
 ### Distribution Of Dataset Across Various Characteristics
 ![iuc2_Image](icu3.png.jpg)
 The mortality distribution by gender shows that 39% of female patients did not survive, compared to 37% of male patients. Female survival rates (61%) are lower than male survival rates (63%). Additionally, most ICU patients were male, with a majority surviving, while a higher proportion of female patients did not survive.
+
+![iuc3_Image](icu5.jpg)
+The mortality distribution by admission type shows survival rates of 72% for "Elective," 53% for "Emergency," 99% for "Newborn," and 49% for "Urgent" patients. Patients in the "Urgent" category have the lowest survival likelihood, while the "Newborn" category has the highest survival rate.

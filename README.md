@@ -37,4 +37,5 @@ The tree map in Figure 4.7 shows the distribution of common diagnoses among surv
 The tree map in Figure 4.8 highlights the distribution of common diagnoses leading to patient death. "Pneumonia" accounts for the highest proportion (21.32%), followed by "Sepsis" (4.18%). Other notable diagnoses include "Congestive Heart Failure" (1.66%), "Intracanal Haemorrhage" (1.21%), and "Gastrointestinal Bleeding" (1.41%). "Pneumonia" is the leading diagnosis associated with patient deaths.
 
 ![iuc6_Image](icu9.jpg)
+
 The bar chart in Figures 4.9 and 4.10 shows mortality distribution by first and last care units, including TSICU, MICU, CCU, SICU, CSRU, and NICU. MICU has the highest number of both patient survivals and deaths among all care units.

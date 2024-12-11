@@ -15,3 +15,6 @@ This project focuses on using **machine learning (ML)** models to predict patien
 - **Implications**:  
   - Results support practical applications in healthcare for better decision-making and resource optimization.
 This study underscores the importance of leveraging ML in healthcare settings for more informed and efficient outcomes.
+
+### Demographic Data of Utilised Dataset
+The ICU mortality distribution is imbalanced, with 60.69% of patients surviving and 39.31% not. Further analysis of factors driving the higher mortality rate is essential to improve outcomes and optimize healthcare resources.

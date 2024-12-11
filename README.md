@@ -35,3 +35,5 @@ The tree map in Figure 4.7 shows the distribution of common diagnoses among surv
 
 ![iuc5_Image](icu8.jpg)
 The tree map in Figure 4.8 highlights the distribution of common diagnoses leading to patient death. "Pneumonia" accounts for the highest proportion (21.32%), followed by "Sepsis" (4.18%). Other notable diagnoses include "Congestive Heart Failure" (1.66%), "Intracanal Haemorrhage" (1.21%), and "Gastrointestinal Bleeding" (1.41%). "Pneumonia" is the leading diagnosis associated with patient deaths.
+
+![iuc6_Image](icu9.jpg)

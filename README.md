@@ -18,7 +18,7 @@ This study underscores the importance of leveraging ML in healthcare settings fo
 
 ### Demographic Data of Utilised Dataset
 The ICU mortality distribution is imbalanced, with 60.69% of patients surviving and 39.31% not. Further analysis of factors driving the higher mortality rate is essential to improve outcomes and optimize healthcare resources.
-![iuc1_Image](icu1.jpg)
+![iuc1_Image](icu3.jpg)
 
 ### Distribution Of Dataset Across Various Characteristics
 ![iuc2_Image](icu1.jpg)

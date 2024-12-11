@@ -55,4 +55,5 @@ The bar chart in Figures 4.9 and 4.10 shows mortality distribution by first and 
   - Recall assesses the model's ability to detect all true positives.  
   - **Random Forest**: 69%, **CatBoost**: 68%.  
 ![iuc8_Image](icu12.jpg)
+
 These results underscore the effectiveness of the Random Forest and CatBoost models in predicting ICU outcomes with strong precision and recall performance.

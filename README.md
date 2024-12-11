@@ -26,3 +26,6 @@ The mortality distribution by gender shows that 39% of female patients did not s
 
 ![iuc3_Image](icu5.jpg)
 The mortality distribution by admission type shows survival rates of 72% for "Elective," 53% for "Emergency," 99% for "Newborn," and 49% for "Urgent" patients. Patients in the "Urgent" category have the lowest survival likelihood, while the "Newborn" category has the highest survival rate.
+
+![iuc4_Image](icu6.jpg)
+The mortality distribution by insurance type shows survival rates of 84% for "Government," 74% for "Medicaid," 43% for "Medicare," 80% for "Private," and 79% for "Self-Pay." Patients in the "Medicare" category have the lowest survival rate, while other insurance types show higher survival rates.

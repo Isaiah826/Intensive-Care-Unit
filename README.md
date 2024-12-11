@@ -8,17 +8,8 @@ This project focuses on using **machine learning (ML)** models to predict patien
 
 #### Key Points:
 - **Objective**: Predict ICU patient outcomes and explore the role of predictive modeling in improving patient care and resource allocation.
-- **Algorithms Used**:  
-  - Logistic Regression  
-  - Support Vector Machine (SVM)  
-  - Random Forest  
-  - CatBoost  
-  - Decision Trees  
-- **Performance Metrics**:  
-  - Precision  
-  - Recall  
-  - F1-Score  
-  - Area Under the Curve (AUC)  
+- **Algorithms Used**: Logistic Regression, Support Vector Machine (SVM), Random Forest, CatBoost, and Decision Trees  
+- **Performance Metrics**:   Precision, Recall, F1-Score, and Area Under the Curve (AUC)  
 - **Findings**:  
   - Predictive modeling demonstrates significant potential for improving clinical decision-making, optimizing healthcare efficiency, and allocating resources effectively.  
 - **Implications**:  
